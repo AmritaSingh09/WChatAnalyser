@@ -1,1 +1,1 @@
-This is simply a whatsapp chat analyser application where we need to upload the text file of the chat in 24 hour format and UI is buid on stremlit 
+This is simply a whatsapp chat analyser application where we need to upload the text file of the chat in 24 hour format (we simply export the chat from the whatsapp - either group chat or the single user chat and can filter out the contents displayed) and UI is buid on stremlit 
